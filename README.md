@@ -19,10 +19,10 @@
 <h1 align="center" style="color: #FFD700; text-shadow: 0 0 25px #FFD700; font-family: 'Black Ops One';">✨ SHOW YOUR SUPPORT ✨</h1>
 
 <div align="center">
-  <a href="https://github.com/KAMRAN-SMD/KAMRAN-MD/fork">
+  <a href="https://github.com/badoarmel04-blip/ARMEL-XD.git">
     <img src="https://img.shields.io/badge/FORK%20THIS%20REPO-FF0055?style=for-the-badge&logo=github&logoColor=white" width="280" height="60"/>
   </a>
-  <a href="https://github.com/KAMRAN-SMD/KAMRAN-MD/stargazers">
+  <a href="https://github.com/badoarmel04-blip/ARMEL-XD.git">
     <img src="https://img.shields.io/badge/STAR%20THIS%20REPO-FFD700?style=for-the-badge&logo=github&logoColor=black" width="280" height="60"/>
   </a>
 </div>
@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <a href="https://app.koyeb.com/services/deploy?type=git&repository=KAMRAN-SMD/KAMRAN-MD">
+  <a href="https://app.koyeb.com/services/deploy?type=git&repository=badoarmel04-blip/ARMEL-XD">
     <img src="https://img.shields.io/badge/DEPLOY%20ON%20KOYEB-00D2FF?style=for-the-badge&logo=koyeb&logoColor=white" width="400" height="65"/>
   </a>
 </p>
