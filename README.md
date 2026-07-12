@@ -106,7 +106,7 @@
 
 <br>
 <div style="font-size: 28px; font-weight: bold; color: #fff; text-shadow: 0 0 20px #FF00FF;">
-  OWNED BY ARMEL XD 👑
+  OWNED BY ARMEL BADO 👑
 </div>
 
 </div>
