@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/lnxplw.png" width="100%" height="15px">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="15px">
 
 <a href="https://files.catbox.moe/lnxplw.png">
   <img src="https://files.catbox.moe/lnxplw.pngfont=Black+Ops+One&size=85&pause=400&color=00FFFF&vCenter=true&center=true&width=1000&height=180&lines=🚀+ARMEL-XD-V12+ULTRON;⚡+THE+FUTURE+OF+WA+BOTS;💎+PREMIUM+VERSION+LIVE;🔥+DEVELOPED+BY+ARMEL+XD" alt="Typing SVG" />
