@@ -94,7 +94,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="15px">
+<img src=""https://files.catbox.moe/lnxplw.png/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="15px">
 
 <h1 align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=45&pause=200&color=00FF00&center=true&vCenter=true&width=1000&height=100&lines=CODE+IS+LIFE+💻+STAY+FOCUSED+⚡+V12+POWER" />
