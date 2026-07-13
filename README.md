@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://github.com/badoarmel04-blip/ARMEL-XD.git">
-    <img src="https://files.catbox.moe/lnxplw.png?style=for-the-badge&logo=github&logoColor=white" width="280" height="60"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gifstyle=for-the-badge&logo=github&logoColor=white" width="280" height="60"/>
   </a>
   <a href="https://github.com/badoarmel04-blip/ARMEL-XD.git">
     <img src="https://img.shields.io/badge/STAR%20THIS%20REPO-FFD700?style=for-the-badge&logo=github&logoColor=black" width="280" height="60"/>
