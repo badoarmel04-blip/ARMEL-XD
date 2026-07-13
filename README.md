@@ -2,7 +2,7 @@
 
 <img src="https://files.catbox.moe/lnxplw.png" width="100%" height="15px">
 
-<a href="https://git.io/typing-svg">
+<a href="https://files.catbox.moe/lnxplw.png">
   <img src="https://files.catbox.moe/lnxplw.pngfont=Black+Ops+One&size=85&pause=400&color=00FFFF&vCenter=true&center=true&width=1000&height=180&lines=🚀+ARMEL-XD-V12+ULTRON;⚡+THE+FUTURE+OF+WA+BOTS;💎+PREMIUM+VERSION+LIVE;🔥+DEVELOPED+BY+ARMEL+XD" alt="Typing SVG" />
 </a>
 
