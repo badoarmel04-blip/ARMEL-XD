@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="15px">
+<img src="https://files.catbox.moe/lnxplw.png" width="100%" height="15px">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=85&pause=400&color=00FFFF&vCenter=true&center=true&width=1000&height=180&lines=🚀+KAMRAN-MD-V12+ULTRON;⚡+THE+FUTURE+OF+WA+BOTS;💎+PREMIUM+VERSION+LIVE;🔥+DEVELOPED+BY+KAMRAN+MD" alt="Typing SVG" />
+  <img src="https://files.catbox.moe/lnxplw.pngfont=Black+Ops+One&size=85&pause=400&color=00FFFF&vCenter=true&center=true&width=1000&height=180&lines=🚀+ARMEL-XD-V12+ULTRON;⚡+THE+FUTURE+OF+WA+BOTS;💎+PREMIUM+VERSION+LIVE;🔥+DEVELOPED+BY+ARMEL+XD" alt="Typing SVG" />
 </a>
 
 <div style="padding: 15px; background: linear-gradient(90deg, #FF00FF, #00FFFF, #FF00FF); border-radius: 50px; display: inline-block; box-shadow: 0 0 40px #FF00FF;">
@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10px">
+<img src="https://files.catbox.moe/lnxplw.png" width="100%" height="10px">
 
 <br>
 
@@ -36,7 +36,7 @@
 <h1 align="center" style="color: #00FFFF; text-shadow: 0 0 15px #00FFFF;">🌌 ONE-CLICK DEPLOYMENT 🌌</h1>
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new-app?template=https://github.com/KAMRAN-SMD/KAMRAN-MD">
+  <a href="https://dashboard.heroku.com/new-app?template=https://github.com/badoarmel04-blip/ARMEL-XD.git">
     <img src="https://img.shields.io/badge/DEPLOY%20ON%20HEROKU-8C4FFF?style=for-the-badge&logo=heroku&logoColor=white" width="400" height="65"/>
   </a>
 </p>
