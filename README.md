@@ -7,7 +7,7 @@
 </a>
 
 <div style="padding: 15px; background: linear-gradient(90deg, #FF00FF, #00FFFF, #FF00FF); border-radius: 50px; display: inline-block; box-shadow: 0 0 40px #FF00FF;">
-  <img src="https://upld.zone.id/uploads/d4ina6iq/img-20260114-wa0013-1.webp" width="700" style="border-radius: 35px; border: 5px solid #000;"/>
+  <img src="https://files.catbox.moe/lnxplw.png" width="700" style="border-radius: 35px; border: 5px solid #000;"/>
 </div>
 
 <br><br>
@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://github.com/badoarmel04-blip/ARMEL-XD.git">
-    <img src="https://img.shields.io/badge/FORK%20THIS%20REPO-FF0055?style=for-the-badge&logo=github&logoColor=white" width="280" height="60"/>
+    <img src="https://files.catbox.moe/lnxplw.png?style=for-the-badge&logo=github&logoColor=white" width="280" height="60"/>
   </a>
   <a href="https://github.com/badoarmel04-blip/ARMEL-XD.git">
     <img src="https://img.shields.io/badge/STAR%20THIS%20REPO-FFD700?style=for-the-badge&logo=github&logoColor=black" width="280" height="60"/>
@@ -29,7 +29,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10px">
+<img src="https://files.catbox.moe/lnxplw.png" width="100%" height="10px">
 
 <br>
 
