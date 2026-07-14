@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <a href="https://app.koyeb.com/services/deploy?type=git&repository=badoarmel04-blip/ARMEL-XD">
+  <a href="https://control.katabump.com/server/9d494954=badoarmel04-blip/ARMEL-XD">
     <img src="https://img.shields.io/badge/DEPLOY%20ON%20KOYEB-00D2FF?style=for-the-badge&logo=koyeb&logoColor=white" width="400" height="65"/>
   </a>
 </p>
