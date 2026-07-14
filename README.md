@@ -7,7 +7,7 @@
 </a>
 
 <div style="padding: 15px; background: linear-gradient(90deg, #FF00FF, #00FFFF, #FF00FF); border-radius: 50px; display: inline-block; box-shadow: 0 0 40px #FF00FF;">
-  <img src="https://upld.zone.id/uploads/d4ina6iq/img-20260114-wa0013-1.webp" width="700" style="border-radius: 35px; border: 5px solid #000;"/>
+  <img src="https://files.catbox.moe/lnxplw.png" width="700" style="border-radius: 35px; border: 5px solid #000;"/>
 </div>
 
 <br><br>
