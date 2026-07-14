@@ -36,19 +36,19 @@
 <h1 align="center" style="color: #00FFFF; text-shadow: 0 0 15px #00FFFF;">🌌 ONE-CLICK DEPLOYMENT 🌌</h1>
 
 <p align="center">
-  <a href="https://armel-xd.vercel.app?template=https://github.com/badoarmel04-blip/ARMEL-XD.git">
+  <a href="https://vercel.com/badoarmel04-blips-projects/armel-xd/Bo4yQBcf6yBEpJK16d6eYnLud7Dg">
     <img src="https://img.shields.io/badge/DEPLOY%20ON%20HEROKU-8C4FFF?style=for-the-badge&logo=heroku&logoColor=white" width="400" height="65"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://armel-xd.vercel.app/new">
+  <a href="https://vercel.com/badoarmel04-blips-projects/armel-xd/Bo4yQBcf6yBEpJK16d6eYnLud7Dg/new">
     <img src="https://img.shields.io/badge/DEPLOY%20ON%20RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=white" width="400" height="65"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://armel-xd.vercel.app/">
+  <a href="https://vercel.com/badoarmel04-blips-projects/armel-xd/Bo4yQBcf6yBEpJK16d6eYnLud7Dg">
     <img src="https://img.shields.io/badge/DEPLOY%20ON%20KOYEB-00D2FF?style=for-the-badge&logo=koyeb&logoColor=white" width="400" height="65"/>
   </a>
 </p>
@@ -62,7 +62,7 @@
 <h2 align="center" style="color: #FF00FF; text-shadow: 0 0 15px #FF00FF;">📡 CONNECT WITH SYSTEM 📡</h2>
 
 <p align="center">
-  <a href="https://badoarmel04@gmail.katabump.app/">
+  <a href="https://vercel.com/badoarmel04-blips-projects/armel-xd/Bo4yQBcf6yBEpJK16d6eYnLud7Dg">
     <img src="https://img.shields.io/badge/GET%20SESSION%20CODE-FF0000?style=for-the-badge&logo=powershell&logoColor=white" width="500" height="80"/>
   </a>
 </p>
